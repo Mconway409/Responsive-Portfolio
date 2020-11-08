@@ -1,0 +1,41 @@
+.card-img-top { 
+    width: 15vw;
+    height: 15vw;
+}
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    resize: vertical
+  }
+
+.container {
+    float: left;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+  }
+
+.aboutmetext {
+      float: left;
+      clear: both;
+  }
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
