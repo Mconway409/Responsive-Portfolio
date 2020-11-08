@@ -6,7 +6,7 @@ In this asignment I built a site that is all about me! There are three disctinct
 
 ## Screenshots of Each Page
 
-![](screenshot-mconway409-github-io-Responsive-Portfolio-1604794546290.png)
+![Screen Shot](screenshot-mconway409-github-io-Responsive-Portfolio-1604794546290.png)
 
 
 ## Sitelink
