@@ -7,6 +7,8 @@ In this asignment I built a site that is all about me! There are three disctinct
 ## Screenshots of Each Page
 
 ![Screen Shot](screenshot-mconway409-github-io-Responsive-Portfolio-1604794546290.png)
+![Screen Shot](screenshot-mconway409-github-io-Responsive-Portfolio-contact-html-1604794593646.png)
+![Screen Shot](screenshot-mconway409-github-io-Responsive-Portfolio-portfolio-html-1604794616285.png)
 
 
 ## Sitelink
